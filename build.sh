@@ -8,4 +8,5 @@ auto/configure --prefix=/Users/jemy/Temp/nginx --with-http_addition_module
 
 # cd .. && git clone https://github.com/openssl/openssl.git
 # --with-http_ssl_module --with-openssl=../openssl
+# http://nginx.org/en/docs/http/ngx_http_ssl_module.html
 auto/configure --prefix=/Users/jemy/Temp/nginx --with-http_ssl_module --with-openssl=../openssl
